@@ -1,0 +1,102 @@
+# Visual Studio / Rider / JetBrains IDEs
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary for legacy projects
+#!**/packages/repositories.config
+
+# MSTest test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build logs
+*.log
+*.tlog
+*.vspscc
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+
+# Rider
+.idea/
+
+# Dotnet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Entity Framework
+*.edmx.diagram
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+*.pfx
+*.publishsettings
+*.userosscache
